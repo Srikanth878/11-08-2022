@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+        int n,r;
+        int i;
+        Scanf
+        for(i=1;n>0 && n>=i;i++)
+        {
+             n=n-i; 
+        }
+        if(n>=0)
+            return i-1;
+        else
+       return i-2; 
+    }
+};
